@@ -1,3 +1,5 @@
+WIP want to create a cli tool i use for myself and hopefully others will find it useful
+
 # evm-cli
 
 an evm cli which supports any evm chain
