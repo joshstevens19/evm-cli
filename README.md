@@ -1,4 +1,4 @@
-WIP want to create a cli tool i use for myself and hopefully others will find it useful
+WIP want to create a cli tool i use for myself day to day to save time and hopefully others will find it useful
 
 # evm-cli
 
